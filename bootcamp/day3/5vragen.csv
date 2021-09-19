@@ -1,0 +1,10 @@
+Naam,Hobby,LaatsteCijfer,Python,Weer,Studierichting,FavProgramTaal,PythonErvaringJaar,AppleAndroid,MacWindows,GitaarPiano,VrijSlaapUur,GebruikDiscord,Provincie
+Arya,zwemmen,8,2,'beetje bewolkt'
+Theon,gamen,,4,'saai'
+Tyrion,Netflix,7.5,1,bewolkt
+Jaime,Gamen,'G.R.',4,'bewolkt'
+JON,'Kroeg',6,4,prettig
+Mathieu,Gamen,6.5,3,bewolkt,Software Engineer,Java,2,android,windows,piano,3,ja,Noord-Holland
+Maarten,Muziek,7.6,1,bewolkt,IDS,C,0,android,windows,gitaar,2,ja,Noord-Holland
+Ismail,Gamen,6.9,3,koud,Software Engineer,Python,1,android,windows,piano,1,ja,Noord-Holland
+Quirijn,Gamen,6.1,3,zonnig,Software Engineer,TypeScript,1,idc,windows,piano,1,ja,Noord-Holland
